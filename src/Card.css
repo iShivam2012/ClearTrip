@@ -1,0 +1,27 @@
+.card {
+    /* box-shadow: 0px 4px 8px 0 rgba(23, 23, 23, 0.2); */
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    font-family: 'sans-serif';
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.img {
+    border-radius: 15px;
+}
+
+.breakfast {
+    color: rgb(116, 176, 27);
+    font-weight: 500;
+}
+
+.price {
+    font-weight: 600;
+    color: #1A1A1A;
+}
